@@ -1,0 +1,13 @@
+username : uni
+email :    uni
+passwd :   pass
+
+____________test________
+email:arsk92110@gmail.com
+pass: *****
+
+NGROK run
+>>ngrok http 8000
+
+
+>pip freeze > requirements.txt
